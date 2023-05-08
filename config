@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	worktree = /webroot/C:/Users/usuario/myproject
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
